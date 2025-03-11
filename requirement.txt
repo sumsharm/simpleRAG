@@ -1,0 +1,10 @@
+PyPDFLoader
+PromptTemplate
+OllamaEmbeddings
+RecursiveCharacterTextSplitter
+Chroma
+ChatPromptTemplate
+StrOutputParser
+ChatOllama
+RunnablePassthrough
+MultiQueryRetriever
